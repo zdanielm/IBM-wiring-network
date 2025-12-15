@@ -1,2 +1,2 @@
-# IBM-wiring-network
-"Social and Technological Networks" project, 2025
+# "Social and Technological Networks" project, 2025
+## IBM Wiring Network Analysis
